@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="referrer" content="unsafe-url" />
+  <meta name="robots" content="noindex" />
+  <meta name="robots" content="noarchive" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <link rel= "dns-prefetch" href="https://cloud.antibot.cloud" />
+  <link rel= "dns-prefetch" href="https://alt.antibot.cloud" />
+  <link rel="icon" href="/favicon.ico">
+  <title>Warten.</title>
+  <style>
+html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+body {background-color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 100%;}
+h1 {font-size: 1.5em; color: #404040; text-align: center;}
+p {font-size: 1em; color: #404040; text-align: center; margin: 10px 0 0 0;}
+.attribution {margin-top: 20px;}
+@-webkit-keyframes bubbles { 33%: { -webkit-transform: translateY(10px); transform: translateY(10px); } 66% { -webkit-transform: translateY(-10px); transform: translateY(-10px); } 100% { -webkit-transform: translateY(0); transform: translateY(0); } }
+@keyframes bubbles { 33%: { -webkit-transform: translateY(10px); transform: translateY(10px); } 66% { -webkit-transform: translateY(-10px); transform: translateY(-10px); } 100% { -webkit-transform: translateY(0); transform: translateY(0); } }
+.bubbles { background-color: #404040; width:15px; height: 15px; margin:2px; border-radius:100%; -webkit-animation:bubbles 0.6s 0.07s infinite ease-in-out; animation:bubbles 0.6s 0.07s infinite ease-in-out; -webkit-animation-fill-mode:both; animation-fill-mode:both; display:inline-block; }
+.btn-success {border: 2px solid transparent; background: #28a745; color: #ffffff; font-size: 18px; line-height: 15px; padding: 10px 10px; text-decoration: none; text-shadow: none; border-radius: 3px; box-shadow: none; transition: 0.25s; display: block; margin: 0 auto;}
+.btn-success:hover {background-color: #218838;}
+  </style>
+</head>
+<body>
+  <table style="width:100%; height:100%; padding:20px;">
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">
+  <noscript><h1 style="color:#bd2426;">Bitte schalten Sie JavaScript ein und laden Sie die Seite neu.</h1></noscript>
+  <div id="cf-content">
+    <div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+    </div>
+    <h1>Überprüfen Sie Ihren Browser, bevor Sie auf die Website zugreifen.</h1>
+    <p>Dieser Vorgang erfolgt automatisch. Ihr Browser wird in Kürze zu Ihrem gewünschten Inhalt umleiten.</p>
+    <p id="btn">Bitte warten Sie einige Sekunden.</p>
+    <p id="error" style="color:red;"></p>
+  </div>
+<div class="attribution">
+
+</div>
+<div id="iframe"></div>
+      </td>
+    </tr>
+  </table>
+<script>userip = "95.33.251.37";</script>
+<! -- counter code -->
+
+<!--
+DE
+95.33.251.37
+dyndsl-095-033-251-037.ewe-ip-backbone.de
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+de-DE,de;q=0.9
+1791747280.9626
+-->
+<style>
+.btn-color {border: 2px solid transparent; cursor: pointer; font-size: 18px; line-height: 15px; padding: 15px 15px; text-decoration: none; text-shadow: none; border-radius: 3px; box-shadow: none; transition: 0.25s; display: block; margin: 0 auto;}
+.btn-color:hover {line-height: 16px; padding: 16px 16px; border: 1px solid #ccc;}
+</style>
+<!-- <a href="https://xaxaxa.antibot.cloud/"> don't click here --> </a>
+<script>
+if (window.location.hostname !== window.atob("YmVkcml2ZS5ydQ==") && window.location.hostname !== window.atob("")) {
+window.location = window.atob("aHR0cDovL2JlZHJpdmUucnUvOGM1Nj9kb3dubG9hZF90b2tlbj0xNTYzMWEzN2UzZDQ5Yjk4NGEzYzgwODE2ZGY5NmE3Nzg0MzZiYzYwZDdjOGQ4M2NhYjNlOGVkMWY3OGIwNjU0");
+throw "stop";
+}
+</script>
+<script>
+setTimeout(Button, 2000);
+
+var country = 'DE';
+var action = 'bedriveru';
+var h1 = '044319cb50a3d7c74c5e97d4968006d9';
+var h2 = '447321a2c7db435edb4579ec0f843ca9';
+var ipfull = '95.33.251.37';
+var ip = '95.33.251';
+var via = '';
+var v = '7.022';
+var re = '0';
+var rk = '6Ley7dsaAAAAAF2quj2hEhZMAbDW5TF5Wxd5CdJB';
+var ho = '0';
+var cid = '1791747280.9626';
+var ptr = 'dyndsl-095-033-251-037.ewe-ip-backbone.de';
+var width = screen.width;
+var height = screen.height;
+var cwidth = document.documentElement.clientWidth;
+var cheight = document.documentElement.clientHeight;
+var colordepth = screen.colorDepth;
+var pixeldepth = screen.pixelDepth;
+var phpreferrer = '';
+var referrer = document.referrer;
+if (referrer != '') {var referrer = document.referrer.split('/')[2].split(':')[0];}
+
+function nore() {
+//document.getElementById("btn").innerHTML = '✓✓✕';
+var token = '0';
+var data = 'country='+country+'&action='+action+'&token='+token+'&h1='+h1+'&h2='+h2+'&ipfull='+ipfull+'&ip='+ip+'&via='+via+'&v='+v+'&re='+re+'&rk='+rk+'&ho='+ho+'&cid='+cid+'&ptr='+ptr+'&w='+width+'&h='+height+'&cw='+cwidth+'&ch='+cheight+'&co='+colordepth+'&pi='+pixeldepth+'&ref='+referrer;
+CloudTest(window.atob('aHR0cHM6Ly9jbG91ZC5hbnRpYm90LmNsb3VkL2FudGlib3Q3LnBocA=='), 5000, data, 0);
+}
+setTimeout(nore, 1000);
+
+function Button() {
+document.getElementById("btn").innerHTML = "<p><i>Wenn Sie kein Roboter sind, klicken Sie auf die Schaltfläche mit der Farbe:</i> <strong><img width=\"40\" height=\"20\" style=\"vertical-align: middle;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAMCAIAAADzpzofAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAG0lEQVQokWO8wyfIQD3AREWzRo0bNW7UOCwAANCiARPEJzOjAAAAAElFTkSuQmCC\" /></strong></p><form action=\"/8c56?download_token=15631a37e3d49b984a3c80816df96a778436bc60d7c8d83cab3e8ed1f78b0654\" method=\"post\"><input name=\"time\" type=\"hidden\" value=\"1791747280\"><input name=\"submit\" type=\"hidden\" value=\"submit\"><input name=\"antibot\" type=\"hidden\" value=\"6bf856dac1229b8b7fd721b26c4d0ad7\"><input name=\"colors\" type=\"hidden\" value=\"1aed240cc610eafbdb951b4b20131b65\"><input name=\"cid\" type=\"hidden\" value=\"1791747280.9626\"><p><button style=\"background:RED; display: inline;\" class=\"btn btn-color\" type=\"submit\" name=\"color\" value=\"RED\" title=\"ROT\"></button> <button style=\"background:BLACK; display: inline;\" class=\"btn btn-color\" type=\"submit\" name=\"color\" value=\"BLACK\" title=\"SCHWARZ\"></button> <button style=\"background:BLUE; display: inline;\" class=\"btn btn-color\" type=\"submit\" name=\"color\" value=\"BLUE\" title=\"BLAU\"></button> <button style=\"background:GRAY; display: inline;\" class=\"btn btn-color\" type=\"submit\" name=\"color\" value=\"GRAY\" title=\"GRAU\"></button> <button style=\"background:GREEN; display: inline;\" class=\"btn btn-color\" type=\"submit\" name=\"color\" value=\"GREEN\" title=\"GRÜN\"></button> <button style=\"background:YELLOW; display: inline;\" class=\"btn btn-color\" type=\"submit\" name=\"color\" value=\"YELLOW\" title=\"GELB\"></button> </p></form>";
+
+
+}
+
+function CloudTest(s, t, d, b){
+var cloud = new XMLHttpRequest();
+cloud.open("POST", s, true)
+cloud.setRequestHeader('Content-type', 'application/x-www-form-urlencoded;');
+cloud.timeout = t; // time in milliseconds
+
+cloud.onload = function () {
+if(cloud.status == 200) {
+//document.getElementById("btn").innerHTML = '✓✓✓';
+  console.log('good: '+cloud.status);
+var obj = JSON.parse(this.responseText);
+if (typeof(obj.error) == "string") {
+document.getElementById("error").innerHTML = obj.error;
+}
+if (typeof(obj.cookie) == "string") {
+document.getElementById("btn").innerHTML = "Seite laden, bitte warten...";
+var d = new Date();
+d.setTime(d.getTime() + (10 * 24 * 60 * 60 * 1000));
+var expires = "expires="+ d.toUTCString();
+document.cookie = "antibot_2ec04d3dcd937978872b3c42a11b81f4="+obj.cookie+"; " + expires + "; path=/;";
+document.cookie = "lastcid="+obj.cid+"; " + expires + "; path=/;";
+location.reload(true);
+} else {
+Button();
+console.log('bad bot');
+}
+} else {
+//document.getElementById("btn").innerHTML = '✓✓✕';
+  console.log('other error');
+  if (b == 1) {Button();} else {CloudTest(window.atob('aHR0cHM6Ly9hbHQuYW50aWJvdC5jbG91ZC9hbnRpYm90Ny5waHA='), 5000, d, 1);}
+}
+};
+cloud.onerror = function(){
+//document.getElementById("btn").innerHTML = '✓✓✕';
+	console.log("error: "+cloud.status);
+	if (b == 1) {Button();} else {CloudTest(window.atob('aHR0cHM6Ly9hbHQuYW50aWJvdC5jbG91ZC9hbnRpYm90Ny5waHA='), 5000, d, 1);}
+}
+cloud.ontimeout = function () {
+  // timeout
+//document.getElementById("btn").innerHTML = '✓✓✕';
+  console.log('timeout');
+  if (b == 1) {Button();} else {CloudTest(window.atob('aHR0cHM6Ly9hbHQuYW50aWJvdC5jbG91ZC9hbnRpYm90Ny5waHA='), 5000, d, 1);}
+};
+cloud.send(d);
+}
+</script>
+</body>
+</html>
+<!-- Time: 0.00955 Sec. -->
